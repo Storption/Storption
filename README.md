@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Storption
 - 👀 I’m interested in: Developing in all kinds of environments and computer programming!
-- 📖 I’m currently learning: How to make advanced Discord Bots and learn how to just program in general for e.g Javascript, CS, HTML, JSON, CSS, Python, TypeScript. etc!
-- 💬 How to reach me: My User on every social media i have/use is "Storption" (There is definitly some socials i dont use but have accounts on for e.g Instagram, Facebook maybe idek 😅)
+- 📖 I’m currently learning: More on making Discord Bots and how to just program in general for e.g Javascript, CS, HTML, JSON, CSS, Python, TypeScript. etc!
+- 💬 How to reach me: My User on every social media i have/use is "Storption" (There is definitly some socials i dont use but have accounts on for e.g Instagram.)
